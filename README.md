@@ -7,7 +7,7 @@ The main goal of this repo is to centralize all the relevant information for fro
 ## Communication
 
 - Email: Frontend-chapter@talview.com
-- Slack channel: **#frontend-chapter**
+- Slack channel: **#team-frontend**
 
 ## Front End Chapter
 
