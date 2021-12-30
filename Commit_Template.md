@@ -1,6 +1,6 @@
 ## Definition of Done
 
-- [ ] Pull request meets [Contributing Guidelines](https://github.com/freight-hub/freighthub-tms/blob/master/CONTRIBUTING.md)
+- [ ] Pull request meets [Contributing Guidelines](https://github.com/akkiparekh77/front-end-standards/blob/main/Contributing_Guidelines.md)
 - [ ] Changes have appropriate types and/or interfaces
 - [ ] Changes have tests
 - [ ] Changes have **Product Analytics Metrics** to measure impact of change/ not needed/ already present
