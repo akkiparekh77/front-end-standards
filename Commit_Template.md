@@ -24,4 +24,4 @@ For non-obvious problems show another developer how they can verify the
 behaviour change. Don't assume an overloaded name for something implies a
 specific system.
 
-### 🤗 Please review according to the [PR etiquette](https://github.com/freight-hub/freighthub-rfcs/blob/master/text/0000-pr-etiquette.md) 🤗
+### 🤗 Please review according to the [PR etiquette](https://github.com/akkiparekh77/front-end-standards/blob/main/PR_ethicates.md) 🤗
