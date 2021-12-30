@@ -11,7 +11,7 @@ The main goal of this repo is to centralize all the relevant information for fro
 
 ## Front End Chapter
 
-Once a week we have a meeting to discuss front end topics with all front end engineers from talview, we usually have a clear agenda of things we want to improve or talk about it. You can find the meetings notes [here](https://docs.google.com/document/d/18KRxPasDyN7Ocf7FOKfQsgj_G8Tv2lnP4fIBxmtRZjo/edit).
+Once a week we have a meeting to discuss front end topics with all front end engineers from talview, we usually have a clear agenda of things we want to improve or talk about it.
 
 ## Standard Tech Stack
 
