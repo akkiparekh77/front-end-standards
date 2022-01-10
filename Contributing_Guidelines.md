@@ -27,4 +27,4 @@ We use github to host code, to track issues and feature requests, as well as acc
 - Use `theme` for all CSS, except for properties that don't require theme, like `position, width, etc`
 - Use `react-testing-library` for writing unit tests
 - Whenever an API Model is changed in the Backend, the respective model should be changed in the repository
-- Avoid adding code to Mobx/Mobx State Tree since the version is old and we are moving to React Hooks
+- Avoid adding code using legacy react-redux pattern since that adds more lines of code and we should move to React Hooks in such cases
