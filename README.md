@@ -6,7 +6,6 @@ The main goal of this repo is to centralize all the relevant information for fro
 
 ## Communication
 
-- Email: Frontend-chapter@talview.com
 - Slack channel: **#team-frontend**
 
 ## Front End Chapter
@@ -195,18 +194,16 @@ export const MyComponent: FC<MyComponentProps> = (props) => {
 
 ### Current state
 
-Historically, we are using mobx-state-tree as a state-management.
-Also some legacy code is using mobx as state management
+Historically, we are using react-redux-state-tree as a state-management.
+Also some legacy code is using react-redux as state management
 New features are built with only react features (hooks, context).
 
 ### Target state
 
-- For major models that are shared between different pages/tabs (e.g: shipment, tp, health ..), we don't have a plan to replace them by an other state management yet.
-- All mobx local states have to been replaced by native react state
-- Small mst models should be replaced by native react state
+- For major models that are shared between different pages/tabs, we don't have a plan to replace them by an other state management yet.
+- Small models should be replaced by native react state
 - New features have to been created with native react features.
   If you feel the need of a state management for your next features, please free free to share your needs, we will be happy to find a solution.
-- Replace usage of `mobx-react` by `mobx-react-lite`
 
 ## [React performance and profiling](/guides/react-profiler-and-performance.md)
 
